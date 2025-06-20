@@ -1,5 +1,5 @@
 import Banner from "../components/Banner/Banner";
-import Button from "../components/Button/Button";
+import AboutText from "../components/AboutText/AboutText";
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer.jsx/Footer";
 
@@ -8,6 +8,9 @@ function About() {
     <>
       <Header />
       <Banner title="About" image="about.jpg" />
+      <div className="container">
+        <AboutText />
+      </div>
       <Footer />
     </>
   );
