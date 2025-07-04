@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 // ASSETS
 import "./Button.css";
 import WhiteArrow from "../../assets/white-arrow.svg";
