@@ -50,6 +50,15 @@
 .button:disabled,
 .button:disabled > :hover {
   background-color: #ccc;
-  color: #666;
+  color: #fcfcfc;
   pointer-events: none;
+}
+
+/* UNSTYLED */
+
+.button.unstyled {
+  background: none;
+
+  color: inherit;
+  cursor: pointer;
 }
