@@ -1,5 +1,5 @@
 import { createContext, useState, useEffect } from "react";
-import { getApiData } from "../services/apiServices";
+import { getApiData } from "../services/apiServices.js";
 
 export const AppContext = createContext();
 
