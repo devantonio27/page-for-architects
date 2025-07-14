@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import "./Footer.css";
 import BrazilIcon from "../../assets/brazil-icon.svg";
 import Logo from "../../assets/dnc-logo.svg";
-import UsaIcon from "../../assets/Usa-icon.svg";
+import UsaIcon from "../../assets/usa-icon.svg";
 import FacebookIcon from "../../assets/facebook-icon.svg";
 import LinkedinIcon from "../../assets/linkedin-icon.svg";
 import InstagramIcon from "../../assets/instagram-icon.svg";
