@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import Banner from "../components/Banner/Banner";
 import Header from "../components/Header/Header";
-import Footer from "../components/Footer.jsx/Footer";
+import Footer from "../components/Footer/Footer.jsx";
 import ProjectsList from "../components/ProjectsList/ProjectsList";
 
 // CONTEXT
