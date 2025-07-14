@@ -2,7 +2,7 @@ import { useContext } from "react";
 import Banner from "../components/Banner/Banner";
 import Button from "../components/Button/Button";
 import Header from "../components/Header/Header";
-import Footer from "../components/Footer.jsx/Footer";
+import Footer from "../components/Footer/Footer.jsx";
 import ContactForm from "../components/ContactForm/ContactForm";
 
 // CONTEXT
