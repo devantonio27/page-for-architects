@@ -69,10 +69,10 @@ O projeto estará rodando em http://localhost:5173 (ou porta configurada).
 
 🌍 Deploy
 O projeto está hospedado na Vercel:
-🔗 Acesse aqui
+🔗 [Acesse aqui](https://page-for-architects.vercel.app/)
 
 👨‍💻 Autor
 Desenvolvido por Antonio Carlos com apoio da Escola DNC.
 
-🔗 LinkedIn (substituir pelo link correto)
+🔗 LinkedIn [](https://www.linkedin.com/in/antonio-carlos-melo-b542a7281/)
 📂 Portfólio
