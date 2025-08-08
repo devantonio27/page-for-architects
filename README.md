@@ -74,5 +74,5 @@ O projeto está hospedado na Vercel:
 👨‍💻 Autor
 Desenvolvido por Antonio Carlos com apoio da Escola DNC.
 
-🔗 LinkedIn [](https://www.linkedin.com/in/antonio-carlos-melo-b542a7281/)
+🔗 [LinkedIn](https://www.linkedin.com/in/antonio-carlos-melo-b542a7281/)
 📂 Portfólio
